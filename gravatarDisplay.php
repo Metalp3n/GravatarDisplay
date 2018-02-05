@@ -1,7 +1,9 @@
 <?
 //start with some settings
-$userEmail = "mike@rapidpurple.com";
-$size = "150";
+$userEmail = "user@usersite.com";
+$size = "150"; // simnple way to set avatar size
+
+//This really shouldn't be a link to iconarchive, but a locally stored file.
 $defaultAvatar = "http://icons.iconarchive.com/icons/guillendesign/variations-3/256/Default-Icon-icon.png";
 
 
